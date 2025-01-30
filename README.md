@@ -1,4 +1,1 @@
-# first-git-file
-<br>
-author=sachinsk
-roll no-5274
+# This is Rock,Paper,Scissor game
